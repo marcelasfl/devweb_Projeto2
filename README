@@ -1,0 +1,18 @@
+1)  Complete o codigo antigo com um rota que permita o usuário 
+retornar um produto informando ID 
+
+2) Cria as rotas que permita o usuário realizar operações 
+de CRUD de um produto em arquivo
+
+3) Cria as rotas que permita o usuário realizar operações 
+de CRUD de um produto em banco de dados
+
+4) Refaça os applications criando uma nova camada chamada 
+repository. No qual deve conter as classes 
+responsaveis por manipular o arquivo e BD. 
+
+5) Refaça o item 3 e 4, usando o padrão 
+interface e substitua nos applications criados
+
+6) Refaça os applications usando Generics, recebendos 
+como parametro as classes que manipulam o arquivo e o BD
